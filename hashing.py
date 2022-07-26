@@ -13,3 +13,4 @@ for x in arr:
 
 print(max_num)
 print(dictionary)
+print(dictionary.keys())
